@@ -26,7 +26,7 @@
             Copyright &copy; Desaparecido {{ new Date().getFullYear() }}. {{ $t("copyright") }}
         </p>
         <a
-                href="https://vercel.com?utm_source=desaparecido&utm_campaign=oss"
+                href="https://vercel.com?utm_source=desaparecido-app&utm_campaign=oss"
                 target="_blank"
                 class="mt-4"
             >
