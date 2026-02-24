@@ -1,5 +1,8 @@
 {
   "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -9,7 +12,7 @@
   "devDependencies": {
     "@intlify/unplugin-vue-i18n": "^0.8.1",
     "autoprefixer": "^10.4.8",
-    "nuxt": "^3.0.0-rc.14",
+    "nuxt": "^3.13.0",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8",
     "vue-i18n": "^9.14.3"
